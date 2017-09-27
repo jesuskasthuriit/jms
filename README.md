@@ -1,5 +1,3 @@
-# jms
-import java.io.*;
 class IfElseDemo {
     public static void main(String[] args) {
 
